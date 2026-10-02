@@ -1,0 +1,13 @@
+transaction_id,bought_date,client_name,client_email,city,category,quantity,unity_price,discount,receive_newsletter
+TX1001,2024-01-10,Carlos Silva,carlos@email.com,São Paulo,Eletrônicos,2,"R$ 150,00",0.10,True
+TX1002,12/01/2024,  mariana souza  ,mariana@email.com,Rio de Janeiro,Móveis,1,"R$ 1.200,50",,False
+TX1003,2024-01-15,João Pereira,joao.pereira@email.com,,eletrônicos,3,"R$ 80,00",0.05,
+TX1004,18-Jan-2024,Ana Paula,ana@email.com,Belo Horizonte,Vestuário,1,"R$ 45,90",,
+TX1001,2024-01-10,Carlos Silva,carlos@email.com,São Paulo,Eletrônicos,2,"R$ 150,00",0.10,True
+TX1005,2024-01-20,Marcos Lima,,Curitiba,Móveis,0,"R$ 350,00",0.15,True
+TX1006,2024/01/22,FERNANDA COSTA,fernanda@email.com,São Paulo,,1,"R$ -90,00",,False
+TX1007,data_invalida,Roberto Alves,roberto@email.com,Porto Alegre,Informática,5,"R$ 25,00",0.20,True
+TX1008,2024-01-25,  Mariana Souza  ,mariana@email.com,Rio de Janeiro,Móveis,1,"R$ 1.200,50",0.00,False
+TX1009,2024-01-26,Lucas Mendes,lucas@email.com,Salvador,vestuário,2,"110.00",,True
+TX1010,2024-01-28,Camila Rocha,camila@email.com,Recife,Informática,1,"R$ 450,00",,
+TX1010,2024-01-28,Camila Rocha,camila@email.com,Recife,Informática,1,"R$ 450,00",,
